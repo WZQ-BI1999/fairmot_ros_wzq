@@ -1,0 +1,6 @@
+<launch>
+
+ <node pkg="fairmot_ros_wzq" name="camera" type="camera.py" output="screen">
+ </node>
+
+</launch>
